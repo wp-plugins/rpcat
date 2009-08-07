@@ -3,8 +3,8 @@ Contributors: ckr
 Donate link: http://kouloumbris.com/
 Tags: posts, sidebar, recent-posts
 Requires at least: 2.7
-Tested up to: 2.7.1
-Stable tag: 1.0.0
+Tested up to: 2.8.3
+Stable tag: 1.0.1
 
 This plugin creates a widget to allow you to show recent posts in your sidebar from a specific category.
 
@@ -32,3 +32,11 @@ None so far.
 
 1. How the widget looks in the available widgets area of the widget page.
 2. The option of the widget after you add it.
+
+== Changelog ==
+
+= 1.0.1 =
+* Added changelog information in the readme and updated the tested up to tag.
+
+= 1.0.0 =
+* First public release of the plugin.

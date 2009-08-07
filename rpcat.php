@@ -3,7 +3,7 @@
 Plugin Name: RPCat
 Plugin URI: http://kouloumbris.com/projects/wp-plugins/rpcat/
 Description: Recent Posts in Category. This widgets allows you to show recent posts list in a specific category.
-Version: 1.0.0
+Version: 1.0.1
 Author: Constantinos Kouloumbris
 Author URI: http://kouloumbris.com/
 */
@@ -81,7 +81,6 @@ class RPCat {
     }
 
     function control($widget_args = 1) {
-
         global $wp_registered_widgets;
         static $updated = false;
 
