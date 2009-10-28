@@ -9,7 +9,6 @@ Author URI: http://kouloumbris.com/
 */
 	
 class RPCat {
-	// Default plugin folder
     var $plugin_folder = '';
 
     var $default_options = array(
